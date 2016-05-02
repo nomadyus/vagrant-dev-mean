@@ -1,6 +1,6 @@
-# Albatross
-## The LAMP stack Vagrant Repository
-Just a vagrant repository for any web development using a LAMP stack with Puppet and Vagant.
+# Albatross and an Angry Mountail Goat
+## The Vagrant Repository for development for MEAN.js
+Just a vagrant repository for any web development using a MEAN stack with Puppet and Vagant.
 
 ## Specifications
 - ip:       "192.168.33.10"
